@@ -1,4 +1,4 @@
-# DSW Project
+# PHP Ecommerce Website
 
 This repository contains the project for the DSW Lab. The project is built using PHP, CSS, JavaScript, and Hack.
 
